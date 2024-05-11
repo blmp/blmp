@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ## Socials:
 -  Discord: federalcat
 -  Telegram: tcpcat
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1116732014792540220)](https://discord.com/users/1116732014792540220)
