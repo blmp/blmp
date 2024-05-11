@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## -  Socials:
+## Socials:
 -  Discord: federalcat
 -  Telegram: tcpcat
